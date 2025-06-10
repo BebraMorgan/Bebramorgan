@@ -1,5 +1,4 @@
 # BebraMorgan
-- Языки программирования:  /  ,  ,  , 󰌟 , 
 
 ### Сишные либы
 - [Argparser](https://github.com/BebraMorgan/argparser) - парсер аргументов на си
