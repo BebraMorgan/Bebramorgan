@@ -11,6 +11,10 @@
 - [Mesto](https://github.com/BebraMorgan/mesto-project)
 - [Stellar Burgers](https://github.com/BebraMorgan/stellar-burgers)
 
+
+### Better rm
+- [brm](https://github.com/BebraMorgan/better-rm)
+
 ### CLI Лаунчер Майнкрафт
 
 - [Launcher](https://github.com/BebraMorgan/mclauncher)
