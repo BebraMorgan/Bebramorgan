@@ -12,8 +12,9 @@
 - [Stellar Burgers](https://github.com/BebraMorgan/stellar-burgers)
 
 
-### Better rm
+### Go
 - [brm](https://github.com/BebraMorgan/better-rm)
+- [go-server](https://github.com/BebraMorgan/go-server)
 
 ### CLI Лаунчер Майнкрафт
 
